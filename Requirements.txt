@@ -1,0 +1,4 @@
+Pandas
+Msql.connector
+Matplotlib
+Seaborn
