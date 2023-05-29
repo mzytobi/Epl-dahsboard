@@ -1,4 +1,4 @@
 Pandas
-Msql.connector
+Mysql.connector
 Matplotlib
 Seaborn
